@@ -7,15 +7,14 @@
 &lt;p>Dalam prinsip kerja komputer sebuah perangkat komputer hanya akan bekerja bila menerima perintah-perintah yang dikemas dalam program. Dimana perintah tersebut akan diolah dan diproses oleh komputer di bagian CPU. Adapun mikroprosesor dari CPU hanya akan menggarap perintah yang memang dikenali.
 Cara kerja komputer dimulai dengan mengambil informasi (input). Input komputer dilakukan oleh manusia sebagai pengguna (user). Informasi dimasukkan oleh pengguna memalui perangkat input. Perangkat input kemduian mengubah informasi menjadi data digital yang dapat dipahami komputer yaitu bahasa biner 1 dan 0.(sumber:kompas.com)&lt;/p>
 &lt;h2 id="d-jenis-spesifikasi-dan-fungsi-prosessor">D. Jenis, spesifikasi, dan fungsi prosessor&lt;/h2>
-&lt;pre>&lt;code>**1. Jenis prosessor**
-&lt;/code>&lt;/pre>
-&lt;p>Ada banyak jenis prosessor, diantaranya prossesor Socket 370, Socket LGA 775, Socket LGA 1366 digunakan pada prosessor Intel; socket AM2, socket 704, socket AM2+, socket 939, socket 940 yang digunakan pada prossesor AMD.
-&lt;strong>2. Fungsi prosessor&lt;/strong>
+&lt;p>###&lt;strong>1. Jenis prosessor&lt;/strong>
+Ada banyak jenis prosessor, diantaranya prossesor Socket 370, Socket LGA 775, Socket LGA 1366 digunakan pada prosessor Intel; socket AM2, socket 704, socket AM2+, socket 939, socket 940 yang digunakan pada prossesor AMD.&lt;/p>
+&lt;p>###&lt;strong>2. Fungsi prosessor&lt;/strong>
 processor pada umumnya hanya sebagai alat yang berfungsi untuk melakukan pemprosesan data dari input (masukan) lalu ia akan menghasilkan output (keluaran).&lt;/p>
 &lt;h2 id="e-jenis-dan-fungsi-memori">E. Jenis dan fungsi memori&lt;/h2>
-&lt;p>&lt;strong>1. Jenis memori&lt;/strong>&lt;/p>
-&lt;p>Ada banyak jenis memori. Beberapa jenis memori yang banyak digunakan saat ini adalah sebagai berikut:&lt;/p>
-&lt;pre>&lt;code>Register proccesor
+&lt;p>###&lt;strong>1. Jenis memori&lt;/strong>&lt;/p>
+&lt;p>Ada banyak jenis memori. Beberapa jenis memori yang banyak digunakan saat ini adalah sebagai berikut:
+Register proccesor
 Random Access Memory
 Cache Memory (Static RAM)
 Memori fisik (Dynamic RAM)
@@ -24,10 +23,9 @@ Perangkat penyimpanan berbasis disk optik
 ROM (Read Only Memory)
 Flash memory
 CD atau Compact Disk
-DVD
-&lt;/code>&lt;/pre>
+DVD&lt;/p>
 &lt;p>Source: wikipedia&lt;/p>
-&lt;p>&lt;strong>2. Fungsi memori&lt;/strong>
+&lt;p>###&lt;strong>2. Fungsi memori&lt;/strong>
 Sebenarnya banyak fungsi memori, kita sebut salah satunya saja dari fungsi random access memory yaitu berfungsi sebagai tempat penyimpanan data sementara.&lt;/p>
 &lt;h2 id="f-jenis-spesifikasi-dan-fungsi-hardisk-drive">F. Jenis, spesifikasi, dan fungsi Hardisk Drive&lt;/h2>
 &lt;p>Hard Disk Drive (HDD) merupakan hardware atau perangkat keras komputer yang berfungsi sebagai media penyimpanan sekunder. Didalam sebuah harddisk terdapat lebih dari satu piringan yang berfungsi menampung data-data secara magnetis. Kebalikan dari RAM yang menyimpan data atau intruksi secara sementara (hilang ketika komputer dimatikan), harddisk akan menyimpan data seperti musik, dokumen, gambar, video, dll secara permanen (tidak akan hilang meskipun komputer dimatikan, kecuali diformat). Berdasarkan jenisnya, harddisk bisa dibedakan menjadi dua jenis, yaitu harddisk konvensional, dan juga harddisk Solid State Drive. Berdasarkan portnya, harddisk bisa dibedakan menjadi 3 jenis yaitu Harddisk IDE, Harddisk ATA, Harddisk S-ATA(SATA), dan SCSI.&lt;/p>
@@ -50,17 +48,17 @@ Jenis-Jenis VGA Pada Komputer meliputi:&lt;/p>
 &lt;p>CPU (The central processing unit), motherboard dan power supply merupakan inti sistem komputer. sedangkan Expansion Slot (slot ekspansi) pada motherboard membuat komputer dapat terhubung ke peripheral internal seperti Video Card dan Sound Card. Beberapa peripheral internal penting lainnya adalah Peripheral input eksternal adalah Scanner, Monitor Layar Sentuh, Keyboard dan Mouse. Peripheral output eksternal adalah Speaker dan Printer.&lt;/p>
 &lt;h2 id="k-alat-kerja-perakitan-komputer">K. Alat kerja perakitan komputer&lt;/h2>
 &lt;p>Berikut alat-alat untuk merakit komputer terdiri dari:
-1.Obeng plus (+)
-Berfungsi Untuk melepas dan memasang baut plus yang di gunakan saat Merakit komputer
-2.Obeng minus (-)
-Fungsinya hampir sama dengan Obeng Plus yang berbeda hanya Obeng Minus digunakan untuk baut yang minus&lt;br>
-3.Tang Lancip (capit buaya)
-Berfungsi untuk menjepit benda kecil&lt;br>
-4.Pinset
-Berfungsi untuk mengambi baut/bahan kecil dari perakitan komputer&lt;br>
-5.Gelang Antistatik
-Alat digunakan untuk mencegah pengosongan elektrostatik&lt;br>
-6.Multimeter/Multitester
+###1.Obeng plus (+)
+Berfungsi Untuk melepas dan memasang baut plus yang di gunakan saat Merakit komputer&lt;/p>
+&lt;p>###2.Obeng minus (-)
+Fungsinya hampir sama dengan Obeng Plus yang berbeda hanya Obeng Minus digunakan untuk baut yang minus&lt;/p>
+&lt;p>###3.Tang Lancip (capit buaya)
+Berfungsi untuk menjepit benda kecil&lt;/p>
+&lt;p>###4.Pinset
+Berfungsi untuk mengambi baut/bahan kecil dari perakitan komputer&lt;/p>
+&lt;p>###5.Gelang Antistatik
+Alat digunakan untuk mencegah pengosongan elektrostatik&lt;/p>
+&lt;p>###6.Multimeter/Multitester
 Untuk pengukuran tegangan.&lt;/p></description></item><item><title>Kesehatan, Keselamatan, Kerja dan Lingkungan Hidup</title><link>https://rodeobazaar124.github.io/posts/k3lh/</link><pubDate>Mon, 02 Aug 2021 10:05:03 +0700</pubDate><guid>https://rodeobazaar124.github.io/posts/k3lh/</guid><description>&lt;h2 id="a-definisi-k3lh">A. Definisi K3LH&lt;/h2>
 &lt;p>K3LH adalah singkatan dari kesehatan, keselamatan kerja dan &lt;!-- raw HTML omitted --> lingkungan hidup yaitu mengenai suatu program kesehatan dan keselamatan kerja dan lingkungan hidup pada suatu perusahaan atau pada instansi lain yang mempunyai banyak tenaga kerja atau karyawan.&lt;/p>
 &lt;h2 id="b-peraturan-perundang-undangan-yang-mengatur-k3lh">B. Peraturan perundang-undangan yang mengatur K3LH&lt;/h2>
@@ -104,11 +102,4 @@ Demikian pembahasan mengenai identifikasi perilaku mencurigakan terhadap K3, den
 &lt;/li>
 &lt;li>&lt;a href="https://spn.or.id/perlindungan-tenaga-kerja/"target="_blank" rel="noopener noreferrer">https://spn.or.id/perlindungan-tenaga-kerja/&lt;/a>
 &lt;/li>
-&lt;/ul></description></item><item><title>Muhammad Azfa Salman (X RPL 1)</title><link>https://rodeobazaar124.github.io/posts/tentang/</link><pubDate>Sun, 25 Jul 2021 11:00:26 +0700</pubDate><guid>https://rodeobazaar124.github.io/posts/tentang/</guid><description>&lt;h1 id="tentang-muhammad-azfa">&lt;strong>Tentang Muhammad Azfa&lt;/strong>&lt;/h1>
-&lt;p>Nama pena &amp;ldquo;Rodeobazaar124&amp;rdquo; adalah nama random yang dibuat oleh Google saat saya membuat akun google, nama pena tersebut saya gunakan pada telegram dan jejaring media sosial lainnya.
-Nama asli saya adalah Muhammad azfa salman akbar, lahir di purwakarta pada tanggal 22 juli 2005.
-Saat ini saya tinggal di Regol wetan. Sumedang selatan, Sumedang, Jawa barat.
-Hobi saya adalah mengutak-atik software android, saya juga selalu penasaran terhadap hal baru.
-Saat ini saya
-bersekolah di SMK Negeri 2 Sumedang, Kelas X RPL 1.
-Saya siap melakukan pembelajaran daring dari rumah :)&lt;/p></description></item></channel></rss>
+&lt;/ul></description></item></channel></rss>
